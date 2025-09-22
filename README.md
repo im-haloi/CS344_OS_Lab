@@ -8,5 +8,5 @@ This repository contains the work done for the **CS344 Operating Systems Lab** c
 
 - **Sujit Haloi**
 - **Tarun**
-- **Tarun Kumar Choudhary**
-- **Tanmoy Sarkar**
+- **Udit Jethva**
+- **Kushal Gupta**
